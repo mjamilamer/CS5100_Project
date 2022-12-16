@@ -1,5 +1,6 @@
 # CS5100_Project
 Credit John O'Connell[ARIMA] & Mohammed Amer[LSTM]
+https://github.com/John-OConnell/CS5100_Project
 
 Project for CS5100 Foundations of Artificial Intelligence at Northeastern University. The final project should be an application of some are of AI to a problem of interest to you.
 
